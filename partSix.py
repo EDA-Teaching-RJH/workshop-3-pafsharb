@@ -6,4 +6,4 @@ elif student == "yes":
     print("Your ticket is £8.")
 else:
     print("Your ticket is £10.")
-
+    
